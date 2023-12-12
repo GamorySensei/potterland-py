@@ -4,7 +4,7 @@ class Human:
         self.last_name = last_name
         self.gender = gender
         self.age = age
-        self.health = 100
+        self.health = 500
         self.speed = 1
         self.armor = 0
         self.xp = 100
